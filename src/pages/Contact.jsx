@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBar from './../components/Navbar'
+import NavBar from './../components/NavBar'
 import img15 from './../assets/img15.png'
 import img16 from './../assets/img16.png'
 import img17 from './../assets/img17.png'

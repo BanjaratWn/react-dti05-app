@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBar from './../components/Navbar'
+import NavBar from './../components/NavBar'
 import profile from './../assets/profile.png'
 import { FaLinkedinIn } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa';
@@ -17,7 +17,7 @@ export default function Home() {
     const hc = {color: "yellow"}
   return (
     <>
-        <NavBar hc={hc} />
+        <NavBar hc={hc}/>
         <div className='flex items-center justify-center mr-20 mt-20'>
             {/* Left side */}
             <div className='text-white'>

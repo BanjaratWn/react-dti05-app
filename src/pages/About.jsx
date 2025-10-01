@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBar from './../components/Navbar'
+import NavBar from './../components/NavBar'
 import img10 from './../assets/img10.png'
 
 export default function About() {

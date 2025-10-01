@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBar from './../components/Navbar'
+import NavBar from './../components/NavBar'
 import img11 from './../assets/img11.png'
 import { FaGithub } from 'react-icons/fa';
 import img12 from './../assets/img12.png'
