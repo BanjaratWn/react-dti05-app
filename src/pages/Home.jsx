@@ -21,8 +21,8 @@ export default function Home() {
         <div className='flex items-center justify-center mr-20 mt-20'>
             {/* Left side */}
             <div className='text-white'>
-                <h1 style={{fontFamily: 'Lora'}} className='text-3xl'>Frontend Web</h1>
-                <h1 style={{fontFamily: 'Lora'}} className='text-3xl'>Developer</h1>
+                <h1 style={{fontFamily: 'Lora'}} className='text-3xl font-bold'>Frontend Web</h1>
+                <h1 style={{fontFamily: 'Lora'}} className='text-3xl font-bold'>Developer</h1>
                 <br />
                 Hi, I'm Yuu. A passionate  front-end
                 <br />
@@ -54,7 +54,7 @@ export default function Home() {
                 <img className='w-8 mx-4' src={img5} alt="springboot" />
                 <img className='w-8 mx-4' src={img6} alt="css" />
                 <img className='w-8 mx-4' src={img7} alt="html" />
-                <img className='w-8 mx-4' src={img8} alt="node" />
+                <img className='w-10 mx-2' src={img8} alt="node" />
                 <img className='w-8 mx-2' src={img9} alt="react" />
             </div>
         
